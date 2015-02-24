@@ -1,3 +1,7 @@
+## 0.9.11
+
+* Applied PR /jdamcd/android-crop/pull/71 and /jdamcd/android-crop/pull/45
+
 ## 0.9.10
 
 * Fix bug on some devices where image was displayed with 0 size
