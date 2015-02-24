@@ -1,7 +1,12 @@
-
-/local.properties
-/.idea
+# Gradle
+.gradle/
 build/
-.gradle
-.DS_Store
+
+# IntelliJ
+/.idea
 *.iml
+
+*~
+*.swp
+local.properties
+.DS_Store
